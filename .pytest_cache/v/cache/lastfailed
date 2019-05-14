@@ -1,3 +1,5 @@
 {
+  "test_scripts/test_001_loop_menus.py::LoopMenuTests::test_menu": true,
+  "tests/courses/register_courses_tests.py::RegisterCoursesTests::test_validEnrollment": true,
   "tests/testFoo/test_foo.py": true
 }

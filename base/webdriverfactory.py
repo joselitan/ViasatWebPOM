@@ -39,7 +39,7 @@ class WebDriverFactory():
         """
         # baseURL = "https://letskodeit.teachable.com/"
         # baseURL = "https://booking.viasat.tv/login"
-        baseURL = "https://test.viasat.se"
+        baseURL = "https://www.viasat.se"
         if self.browser == "iexplorer":
             # Set Ie driver
             driver = webdriver.Ie()

@@ -1,3 +1,3 @@
 [
-  "tests/loginLink/click_loginLink_test.py::LoginTests::test_validLogin"
+  "test_scripts/test_001_loop_menus.py::LoopMenuTests::test_menu"
 ]
