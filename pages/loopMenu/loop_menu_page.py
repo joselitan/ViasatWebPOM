@@ -13,15 +13,27 @@ class loopMenuPage(BasePage):
 
     #Locators
     _menu_list = "//ul[@class='main-menu ng-star-inserted']/li" #xpath
+    _menu_path = "//ul/li[contains(text(),'{0}')]"
 
     def getMenus(self):
-        return self.getElementList(self._menu_list, locatorType="xpath")
+        menu = [a.text for a in self.getElementList(self._menu_list, locatorType="xpath") if a.text not in '']
+        self.log.info(menu)
+        self.log.info(type(menu))
+        return menu
 
 
+    def clickMenus(self):
 
+        for i in self.getMenus():
+            # self.waitForElement(self._menu_path.format(i), locatorType="xpath", timeout=0.9)
+            self.isElementDisplayed(self._menu_path.format(i), locatorType="xpath")
+            self.elementClick(self._menu_path.format(i), locatorType="xpath")
+            self.log.info(self.getTitle())
 
     def loopMenus(self):
-        # self.getMenus()
+        self.getMenus()
+        self.clickMenus()
+
 
 
 

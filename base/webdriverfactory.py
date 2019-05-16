@@ -11,6 +11,7 @@ Examples:
 import traceback
 from selenium import webdriver
 import os
+import platform
 
 class WebDriverFactory():
 
@@ -60,5 +61,6 @@ class WebDriverFactory():
         # Loading browser with App URL
         driver.get(baseURL)
         return driver
+
 
 

@@ -14,5 +14,5 @@ class LoopMenuTests(unittest.TestCase):
 
     @pytest.mark.run(order=1)
     def test_menu(self):
-        a = self.menus.getMenus()
+        a = self.menus.loopMenus()
         print(a)
