@@ -14,5 +14,6 @@ class LoopMenuTests(unittest.TestCase):
 
     @pytest.mark.run(order=1)
     def test_menu(self):
-        a = self.menus.loopMenus()
-        print(a)
+        self.menus.loopMenus()
+        result1= self.menus.verifyBreadcrumbExists()
+        self.ts.markFinal("test_menu", result1, "breadcrumb is visible")
