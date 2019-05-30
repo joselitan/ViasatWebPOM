@@ -1,1080 +1,120 @@
-05/09/2019 10:49:17 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
-05/09/2019 10:49:19 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
-05/09/2019 10:49:19 PM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
-05/09/2019 10:49:20 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
-05/09/2019 10:49:20 PM - LoginPage - INFO: Entering: test@email.com
-05/09/2019 10:49:20 PM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
-05/09/2019 10:49:20 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
-05/09/2019 10:49:20 PM - LoginPage - INFO: Entering password
-05/09/2019 10:49:20 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
-05/09/2019 10:49:23 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
-05/09/2019 10:49:23 PM - RegisterCoursesPage - INFO: Element found with locator: //a[contains(text(),'All Courses')] and  locatorType: xpath
-05/09/2019 10:49:23 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //a[contains(text(),'All Courses')] locatorType: xpath
-05/09/2019 10:49:23 PM - RegisterCoursesPage - INFO: Element found with locator: query and  locatorType: name
-05/09/2019 10:49:23 PM - RegisterCoursesPage - INFO: Sent data on element with locator: query locatorType: name
-05/09/2019 10:49:24 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
-05/09/2019 10:49:24 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
-05/09/2019 10:49:27 PM - RegisterCoursesPage - INFO: Element found with locator: enroll-button-top and  locatorType: id
-05/09/2019 10:49:32 PM - RegisterCoursesPage - INFO: Clicked on element with locator: enroll-button-top locatorType: id
-05/09/2019 10:49:37 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:49:37 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:49:40 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:49:40 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:49:43 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:49:43 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:49:46 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:49:46 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:49:49 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:49:49 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:49:52 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:49:52 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:49:55 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:49:55 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:49:58 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:49:59 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:50:02 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:50:02 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:50:05 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:50:05 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:50:08 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:50:08 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:50:11 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:50:11 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:50:14 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:50:14 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:50:17 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:50:17 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:50:20 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:50:20 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:50:23 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:50:23 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:50:26 PM - RegisterCoursesPage - INFO: Element found with locator: exp-date and  locatorType: name
-05/09/2019 10:50:26 PM - RegisterCoursesPage - INFO: Sent data on element with locator: exp-date locatorType: name
-05/09/2019 10:50:29 PM - RegisterCoursesPage - INFO: Element found with locator: cvc and  locatorType: name
-05/09/2019 10:50:29 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cvc locatorType: name
-05/09/2019 10:50:32 PM - RegisterCoursesPage - INFO: Element found with locator: postal and  locatorType: name
-05/09/2019 10:50:32 PM - RegisterCoursesPage - INFO: Sent data on element with locator: postal locatorType: name
-05/09/2019 10:50:34 PM - RegisterCoursesPage - INFO: Element found with locator: //div[@class='boolean-checkbox spc__checkbox spc__terms-text']//input[@type='checkbox'] and  locatorType: xpath
-05/09/2019 10:50:35 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[@class='boolean-checkbox spc__checkbox spc__terms-text']//input[@type='checkbox'] locatorType: xpath
-05/09/2019 10:50:35 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='confirm-purchase']/label and  locatorType: xpath
-05/09/2019 10:50:35 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='confirm-purchase']/label locatorType: xpath
-05/09/2019 10:50:52 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
-05/09/2019 10:50:52 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
-05/09/2019 10:50:54 PM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
-05/09/2019 10:50:54 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
-05/09/2019 10:50:54 PM - LoginPage - INFO: Entering: test@email.com
-05/09/2019 10:50:55 PM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
-05/09/2019 10:50:55 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
-05/09/2019 10:50:55 PM - LoginPage - INFO: Entering password
-05/09/2019 10:50:55 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
-05/09/2019 10:50:58 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
-05/09/2019 10:50:58 PM - RegisterCoursesPage - INFO: Element found with locator: //a[contains(text(),'All Courses')] and  locatorType: xpath
-05/09/2019 10:50:58 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //a[contains(text(),'All Courses')] locatorType: xpath
-05/09/2019 10:50:58 PM - RegisterCoursesPage - INFO: Element found with locator: query and  locatorType: name
-05/09/2019 10:50:58 PM - RegisterCoursesPage - INFO: Sent data on element with locator: query locatorType: name
-05/09/2019 10:50:58 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
-05/09/2019 10:50:58 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
-05/09/2019 10:51:02 PM - RegisterCoursesPage - INFO: Element not found with locator: enroll-button-top and  locatorType: id
-05/09/2019 10:51:02 PM - RegisterCoursesPage - INFO: Cannot click on the element with locator: enroll-button-top locatorType: id
-05/09/2019 10:51:16 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
-05/09/2019 10:51:16 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
-05/09/2019 10:51:17 PM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
-05/09/2019 10:51:18 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
-05/09/2019 10:51:18 PM - LoginPage - INFO: Entering: test@email.com
-05/09/2019 10:51:18 PM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
-05/09/2019 10:51:18 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
-05/09/2019 10:51:18 PM - LoginPage - INFO: Entering password
-05/09/2019 10:51:18 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
-05/09/2019 10:51:21 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
-05/09/2019 10:51:21 PM - RegisterCoursesPage - INFO: Element found with locator: //a[contains(text(),'All Courses')] and  locatorType: xpath
-05/09/2019 10:51:21 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //a[contains(text(),'All Courses')] locatorType: xpath
-05/09/2019 10:51:21 PM - RegisterCoursesPage - INFO: Element found with locator: query and  locatorType: name
-05/09/2019 10:51:21 PM - RegisterCoursesPage - INFO: Sent data on element with locator: query locatorType: name
-05/09/2019 10:51:21 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
-05/09/2019 10:51:21 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
-05/09/2019 10:51:22 PM - RegisterCoursesPage - INFO: Element found with locator: enroll-button-top and  locatorType: id
-05/09/2019 10:51:26 PM - RegisterCoursesPage - INFO: Clicked on element with locator: enroll-button-top locatorType: id
-05/09/2019 10:51:28 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:51:28 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:51:28 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:51:28 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:51:28 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:51:28 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:51:29 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:51:29 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:51:29 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:51:29 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:51:29 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:51:29 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:51:29 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:51:29 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:51:29 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:51:29 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:51:29 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:51:29 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:51:29 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:51:29 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:51:29 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:51:29 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:51:29 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:51:29 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:51:29 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:51:29 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:51:29 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:51:29 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:51:29 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:51:29 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:51:29 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:51:29 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:51:29 PM - RegisterCoursesPage - INFO: Element found with locator: exp-date and  locatorType: name
-05/09/2019 10:51:29 PM - RegisterCoursesPage - INFO: Sent data on element with locator: exp-date locatorType: name
-05/09/2019 10:51:30 PM - RegisterCoursesPage - INFO: Element found with locator: cvc and  locatorType: name
-05/09/2019 10:51:30 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cvc locatorType: name
-05/09/2019 10:51:30 PM - RegisterCoursesPage - INFO: Element found with locator: postal and  locatorType: name
-05/09/2019 10:51:30 PM - RegisterCoursesPage - INFO: Sent data on element with locator: postal locatorType: name
-05/09/2019 10:51:32 PM - RegisterCoursesPage - INFO: Element found with locator: //div[@class='boolean-checkbox spc__checkbox spc__terms-text']//input[@type='checkbox'] and  locatorType: xpath
-05/09/2019 10:51:32 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[@class='boolean-checkbox spc__checkbox spc__terms-text']//input[@type='checkbox'] locatorType: xpath
-05/09/2019 10:51:32 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='confirm-purchase']/label and  locatorType: xpath
-05/09/2019 10:51:32 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='confirm-purchase']/label locatorType: xpath
-05/09/2019 10:51:46 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
-05/09/2019 10:51:46 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
-05/09/2019 10:51:49 PM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
-05/09/2019 10:51:49 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
-05/09/2019 10:51:49 PM - LoginPage - INFO: Entering: test@email.com
-05/09/2019 10:51:49 PM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
-05/09/2019 10:51:49 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
-05/09/2019 10:51:49 PM - LoginPage - INFO: Entering password
-05/09/2019 10:51:49 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
-05/09/2019 10:51:53 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
-05/09/2019 10:51:53 PM - RegisterCoursesPage - INFO: Element found with locator: //a[contains(text(),'All Courses')] and  locatorType: xpath
-05/09/2019 10:51:53 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //a[contains(text(),'All Courses')] locatorType: xpath
-05/09/2019 10:51:53 PM - RegisterCoursesPage - INFO: Element found with locator: query and  locatorType: name
-05/09/2019 10:51:53 PM - RegisterCoursesPage - INFO: Sent data on element with locator: query locatorType: name
-05/09/2019 10:51:53 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
-05/09/2019 10:51:53 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
-05/09/2019 10:51:54 PM - RegisterCoursesPage - INFO: Element found with locator: enroll-button-top and  locatorType: id
-05/09/2019 10:51:58 PM - RegisterCoursesPage - INFO: Clicked on element with locator: enroll-button-top locatorType: id
-05/09/2019 10:52:00 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:52:00 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:52:00 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:52:00 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:52:00 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:52:00 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:52:00 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:52:00 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:52:00 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:52:00 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:52:00 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:52:00 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:52:01 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:52:01 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:52:01 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:52:01 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:52:01 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:52:01 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:52:01 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:52:01 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:52:01 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:52:01 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:52:01 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:52:01 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:52:01 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:52:01 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:52:01 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:52:01 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:52:01 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:52:01 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:52:01 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:52:01 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:52:01 PM - RegisterCoursesPage - INFO: Element found with locator: exp-date and  locatorType: name
-05/09/2019 10:52:01 PM - RegisterCoursesPage - INFO: Sent data on element with locator: exp-date locatorType: name
-05/09/2019 10:52:01 PM - RegisterCoursesPage - INFO: Element found with locator: cvc and  locatorType: name
-05/09/2019 10:52:01 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cvc locatorType: name
-05/09/2019 10:52:01 PM - RegisterCoursesPage - INFO: Element found with locator: postal and  locatorType: name
-05/09/2019 10:52:02 PM - RegisterCoursesPage - INFO: Sent data on element with locator: postal locatorType: name
-05/09/2019 10:52:04 PM - RegisterCoursesPage - INFO: Element found with locator: //div[@class='boolean-checkbox spc__checkbox spc__terms-text']//input[@type='checkbox'] and  locatorType: xpath
-05/09/2019 10:52:04 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[@class='boolean-checkbox spc__checkbox spc__terms-text']//input[@type='checkbox'] locatorType: xpath
-05/09/2019 10:52:04 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='confirm-purchase']/label and  locatorType: xpath
-05/09/2019 10:52:04 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='confirm-purchase']/label locatorType: xpath
-05/09/2019 10:52:51 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
-05/09/2019 10:52:54 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
-05/09/2019 10:52:54 PM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
-05/09/2019 10:52:54 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
-05/09/2019 10:52:54 PM - LoginPage - INFO: Entering: test@email.com
-05/09/2019 10:52:54 PM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
-05/09/2019 10:52:54 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
-05/09/2019 10:52:54 PM - LoginPage - INFO: Entering password
-05/09/2019 10:52:54 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
-05/09/2019 10:52:59 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
-05/09/2019 10:52:59 PM - RegisterCoursesPage - INFO: Element found with locator: //a[contains(text(),'All Courses')] and  locatorType: xpath
-05/09/2019 10:53:00 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //a[contains(text(),'All Courses')] locatorType: xpath
-05/09/2019 10:53:00 PM - RegisterCoursesPage - INFO: Element found with locator: query and  locatorType: name
-05/09/2019 10:53:00 PM - RegisterCoursesPage - INFO: Sent data on element with locator: query locatorType: name
-05/09/2019 10:53:00 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
-05/09/2019 10:53:00 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
-05/09/2019 10:53:01 PM - RegisterCoursesPage - INFO: Element found with locator: enroll-button-top and  locatorType: id
-05/09/2019 10:53:07 PM - RegisterCoursesPage - INFO: Clicked on element with locator: enroll-button-top locatorType: id
-05/09/2019 10:53:12 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:53:12 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:53:15 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:53:15 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:53:18 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:53:18 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:53:21 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:53:21 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:53:24 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:53:24 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:53:27 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:53:27 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:53:31 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:53:31 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:53:34 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:53:34 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:53:37 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:53:37 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:53:40 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:53:40 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:53:43 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:53:43 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:53:46 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:53:46 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:53:49 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:53:49 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:53:52 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:53:52 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:53:55 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:53:55 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:53:58 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 10:53:58 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 10:54:01 PM - RegisterCoursesPage - INFO: Element found with locator: exp-date and  locatorType: name
-05/09/2019 10:54:01 PM - RegisterCoursesPage - INFO: Sent data on element with locator: exp-date locatorType: name
-05/09/2019 10:54:04 PM - RegisterCoursesPage - INFO: Element found with locator: cvc and  locatorType: name
-05/09/2019 10:54:04 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cvc locatorType: name
-05/09/2019 10:54:07 PM - RegisterCoursesPage - INFO: Element found with locator: postal and  locatorType: name
-05/09/2019 10:54:08 PM - RegisterCoursesPage - INFO: Sent data on element with locator: postal locatorType: name
-05/09/2019 10:54:10 PM - RegisterCoursesPage - INFO: Element found with locator: //div[@class='boolean-checkbox spc__checkbox spc__terms-text']//input[@type='checkbox'] and  locatorType: xpath
-05/09/2019 10:54:10 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[@class='boolean-checkbox spc__checkbox spc__terms-text']//input[@type='checkbox'] locatorType: xpath
-05/09/2019 10:54:10 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='confirm-purchase']/label and  locatorType: xpath
-05/09/2019 10:54:10 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='confirm-purchase']/label locatorType: xpath
-05/09/2019 11:05:29 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
-05/09/2019 11:05:29 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
-05/09/2019 11:05:31 PM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
-05/09/2019 11:05:31 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
-05/09/2019 11:05:31 PM - LoginPage - INFO: Entering: test@email.com
-05/09/2019 11:05:31 PM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
-05/09/2019 11:05:31 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
-05/09/2019 11:05:31 PM - LoginPage - INFO: Entering password
-05/09/2019 11:05:31 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
-05/09/2019 11:05:35 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
-05/09/2019 11:05:35 PM - RegisterCoursesPage - INFO: Element found with locator: //a[contains(text(),'All Courses')] and  locatorType: xpath
-05/09/2019 11:05:35 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //a[contains(text(),'All Courses')] locatorType: xpath
-05/09/2019 11:05:35 PM - RegisterCoursesPage - INFO: Element found with locator: query and  locatorType: name
-05/09/2019 11:05:35 PM - RegisterCoursesPage - INFO: Sent data on element with locator: query locatorType: name
-05/09/2019 11:05:35 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
-05/09/2019 11:05:35 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
-05/09/2019 11:05:36 PM - RegisterCoursesPage - INFO: Element found with locator: enroll-button-top and  locatorType: id
-05/09/2019 11:05:40 PM - RegisterCoursesPage - INFO: Clicked on element with locator: enroll-button-top locatorType: id
-05/09/2019 11:05:42 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:05:43 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:05:43 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:05:43 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:05:43 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:05:43 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:05:43 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:05:43 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:05:43 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:05:43 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:05:43 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:05:43 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:05:43 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:05:43 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:05:43 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:05:43 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:05:43 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:05:43 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:05:43 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:05:43 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:05:43 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:05:43 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:05:43 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:05:43 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:05:43 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:05:43 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:05:44 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:05:44 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:05:44 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:05:44 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:05:44 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:05:44 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:05:44 PM - RegisterCoursesPage - INFO: Element found with locator: exp-date and  locatorType: name
-05/09/2019 11:05:44 PM - RegisterCoursesPage - INFO: Sent data on element with locator: exp-date locatorType: name
-05/09/2019 11:05:44 PM - RegisterCoursesPage - INFO: Element found with locator: cvc and  locatorType: name
-05/09/2019 11:05:44 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cvc locatorType: name
-05/09/2019 11:05:44 PM - RegisterCoursesPage - INFO: Element found with locator: postal and  locatorType: name
-05/09/2019 11:05:44 PM - RegisterCoursesPage - INFO: Sent data on element with locator: postal locatorType: name
-05/09/2019 11:05:46 PM - RegisterCoursesPage - INFO: Element found with locator: //div[@class='boolean-checkbox spc__checkbox spc__terms-text']//input[@type='checkbox'] and  locatorType: xpath
-05/09/2019 11:05:46 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[@class='boolean-checkbox spc__checkbox spc__terms-text']//input[@type='checkbox'] locatorType: xpath
-05/09/2019 11:05:46 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='confirm-purchase']/label and  locatorType: xpath
-05/09/2019 11:05:46 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='confirm-purchase']/label locatorType: xpath
-05/09/2019 11:08:05 PM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
-05/09/2019 11:08:06 PM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
-05/09/2019 11:08:07 PM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
-05/09/2019 11:08:08 PM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
-05/09/2019 11:08:08 PM - LoginPage - INFO: Entering: test@email.com
-05/09/2019 11:08:08 PM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
-05/09/2019 11:08:08 PM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
-05/09/2019 11:08:08 PM - LoginPage - INFO: Entering password
-05/09/2019 11:08:08 PM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
-05/09/2019 11:08:11 PM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
-05/09/2019 11:08:11 PM - RegisterCoursesPage - INFO: Element found with locator: //a[contains(text(),'All Courses')] and  locatorType: xpath
-05/09/2019 11:08:11 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //a[contains(text(),'All Courses')] locatorType: xpath
-05/09/2019 11:08:11 PM - RegisterCoursesPage - INFO: Element found with locator: query and  locatorType: name
-05/09/2019 11:08:11 PM - RegisterCoursesPage - INFO: Sent data on element with locator: query locatorType: name
-05/09/2019 11:08:12 PM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
-05/09/2019 11:08:12 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
-05/09/2019 11:08:13 PM - RegisterCoursesPage - INFO: Element found with locator: enroll-button-top and  locatorType: id
-05/09/2019 11:08:17 PM - RegisterCoursesPage - INFO: Clicked on element with locator: enroll-button-top locatorType: id
-05/09/2019 11:08:19 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:08:19 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:08:19 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:08:19 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:08:19 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:08:19 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:08:19 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:08:19 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:08:19 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:08:19 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:08:19 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:08:20 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:08:20 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:08:20 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:08:20 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:08:20 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:08:20 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:08:20 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:08:20 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:08:20 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:08:20 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:08:20 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:08:20 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:08:20 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:08:20 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:08:20 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:08:20 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:08:20 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:08:20 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:08:20 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:08:20 PM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/09/2019 11:08:20 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/09/2019 11:08:20 PM - RegisterCoursesPage - INFO: Element found with locator: exp-date and  locatorType: name
-05/09/2019 11:08:20 PM - RegisterCoursesPage - INFO: Sent data on element with locator: exp-date locatorType: name
-05/09/2019 11:08:20 PM - RegisterCoursesPage - INFO: Element found with locator: cvc and  locatorType: name
-05/09/2019 11:08:20 PM - RegisterCoursesPage - INFO: Sent data on element with locator: cvc locatorType: name
-05/09/2019 11:08:20 PM - RegisterCoursesPage - INFO: Element found with locator: postal and  locatorType: name
-05/09/2019 11:08:21 PM - RegisterCoursesPage - INFO: Sent data on element with locator: postal locatorType: name
-05/09/2019 11:08:23 PM - RegisterCoursesPage - INFO: Element found with locator: //div[@class='boolean-checkbox spc__checkbox spc__terms-text']//input[@type='checkbox'] and  locatorType: xpath
-05/09/2019 11:08:23 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[@class='boolean-checkbox spc__checkbox spc__terms-text']//input[@type='checkbox'] locatorType: xpath
-05/09/2019 11:08:23 PM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='confirm-purchase']/label and  locatorType: xpath
-05/09/2019 11:08:23 PM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='confirm-purchase']/label locatorType: xpath
-05/10/2019 10:22:25 AM - LoginPage - INFO: Element found with locator: Login and  locatorType: link
-05/10/2019 10:22:25 AM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
-05/10/2019 10:22:27 AM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
-05/10/2019 10:22:27 AM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
-05/10/2019 10:22:27 AM - LoginPage - INFO: Entering: test@email.com
-05/10/2019 10:22:27 AM - LoginPage - INFO: Element found with locator: user_password and  locatorType: id
-05/10/2019 10:22:27 AM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
-05/10/2019 10:22:27 AM - LoginPage - INFO: Entering password
-05/10/2019 10:22:28 AM - LoginPage - INFO: Element found with locator: commit and  locatorType: name
-05/10/2019 10:22:31 AM - LoginPage - INFO: Clicked on element with locator: commit locatorType: name
-05/10/2019 10:22:31 AM - RegisterCoursesPage - INFO: Element found with locator: //a[contains(text(),'All Courses')] and  locatorType: xpath
-05/10/2019 10:22:31 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //a[contains(text(),'All Courses')] locatorType: xpath
-05/10/2019 10:22:31 AM - RegisterCoursesPage - INFO: Element found with locator: query and  locatorType: name
-05/10/2019 10:22:31 AM - RegisterCoursesPage - INFO: Sent data on element with locator: query locatorType: name
-05/10/2019 10:22:32 AM - RegisterCoursesPage - INFO: Element found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
-05/10/2019 10:22:32 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
-05/10/2019 10:22:33 AM - RegisterCoursesPage - INFO: Element found with locator: enroll-button-top and  locatorType: id
-05/10/2019 10:22:38 AM - RegisterCoursesPage - INFO: Clicked on element with locator: enroll-button-top locatorType: id
-05/10/2019 10:22:40 AM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/10/2019 10:22:40 AM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/10/2019 10:22:40 AM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/10/2019 10:22:40 AM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/10/2019 10:22:40 AM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/10/2019 10:22:41 AM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/10/2019 10:22:41 AM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/10/2019 10:22:41 AM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/10/2019 10:22:41 AM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/10/2019 10:22:41 AM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/10/2019 10:22:41 AM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/10/2019 10:22:41 AM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/10/2019 10:22:41 AM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/10/2019 10:22:41 AM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/10/2019 10:22:41 AM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/10/2019 10:22:41 AM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/10/2019 10:22:41 AM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/10/2019 10:22:41 AM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/10/2019 10:22:41 AM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/10/2019 10:22:41 AM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/10/2019 10:22:41 AM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/10/2019 10:22:41 AM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/10/2019 10:22:41 AM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/10/2019 10:22:41 AM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/10/2019 10:22:41 AM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/10/2019 10:22:41 AM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/10/2019 10:22:41 AM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/10/2019 10:22:41 AM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/10/2019 10:22:41 AM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/10/2019 10:22:41 AM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/10/2019 10:22:41 AM - RegisterCoursesPage - INFO: Element found with locator: cardnumber and  locatorType: name
-05/10/2019 10:22:41 AM - RegisterCoursesPage - INFO: Sent data on element with locator: cardnumber locatorType: name
-05/10/2019 10:22:41 AM - RegisterCoursesPage - INFO: Element found with locator: exp-date and  locatorType: name
-05/10/2019 10:22:42 AM - RegisterCoursesPage - INFO: Sent data on element with locator: exp-date locatorType: name
-05/10/2019 10:22:42 AM - RegisterCoursesPage - INFO: Element found with locator: cvc and  locatorType: name
-05/10/2019 10:22:42 AM - RegisterCoursesPage - INFO: Sent data on element with locator: cvc locatorType: name
-05/10/2019 10:22:42 AM - RegisterCoursesPage - INFO: Element found with locator: postal and  locatorType: name
-05/10/2019 10:22:42 AM - RegisterCoursesPage - INFO: Sent data on element with locator: postal locatorType: name
-05/10/2019 10:22:44 AM - RegisterCoursesPage - INFO: Element found with locator: //div[@class='boolean-checkbox spc__checkbox spc__terms-text']//input[@type='checkbox'] and  locatorType: xpath
-05/10/2019 10:22:44 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //div[@class='boolean-checkbox spc__checkbox spc__terms-text']//input[@type='checkbox'] locatorType: xpath
-05/10/2019 10:22:44 AM - RegisterCoursesPage - INFO: Element found with locator: //button[@id='confirm-purchase']/label and  locatorType: xpath
-05/10/2019 10:22:44 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //button[@id='confirm-purchase']/label locatorType: xpath
-05/13/2019 09:35:41 PM - LoginPage - INFO: Element not found with locator: Login and  locatorType: link
-05/13/2019 09:35:41 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
-05/13/2019 09:35:44 PM - LoginPage - INFO: Element not found with locator: user_email and  locatorType: id
-05/13/2019 09:35:44 PM - LoginPage - INFO: Cannot send data on the element with locator: user_email locatorType: id
-05/13/2019 09:35:44 PM - LoginPage - INFO: Entering: test@email.com
-05/13/2019 09:35:47 PM - LoginPage - INFO: Element not found with locator: user_password and  locatorType: id
-05/13/2019 09:35:47 PM - LoginPage - INFO: Cannot send data on the element with locator: user_password locatorType: id
-05/13/2019 09:35:47 PM - LoginPage - INFO: Entering password
-05/13/2019 09:35:50 PM - LoginPage - INFO: Element not found with locator: commit and  locatorType: name
-05/13/2019 09:35:50 PM - LoginPage - INFO: Cannot click on the element with locator: commit locatorType: name
-05/13/2019 09:35:53 PM - RegisterCoursesPage - INFO: Element not found with locator: //a[contains(text(),'All Courses')] and  locatorType: xpath
-05/13/2019 09:35:53 PM - RegisterCoursesPage - INFO: Cannot click on the element with locator: //a[contains(text(),'All Courses')] locatorType: xpath
-05/13/2019 09:35:56 PM - RegisterCoursesPage - INFO: Element not found with locator: query and  locatorType: name
-05/13/2019 09:35:56 PM - RegisterCoursesPage - INFO: Cannot send data on the element with locator: query locatorType: name
-05/13/2019 09:35:59 PM - RegisterCoursesPage - INFO: Element not found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
-05/13/2019 09:35:59 PM - RegisterCoursesPage - INFO: Cannot click on the element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
-05/13/2019 09:36:00 PM - RegisterCoursesPage - INFO: Element found with locator: enroll-button-top and  locatorType: id
-05/13/2019 09:36:00 PM - RegisterCoursesPage - INFO: Cannot click on the element with locator: enroll-button-top locatorType: id
-05/13/2019 09:36:12 PM - LoginPage - INFO: Element not found with locator: Login and  locatorType: link
-05/13/2019 09:36:12 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
-05/13/2019 09:36:12 PM - LoginPage - INFO: Element found with locator: user_email and  locatorType: id
-05/13/2019 09:36:12 PM - LoginPage - INFO: Cannot send data on the element with locator: user_email locatorType: id
-05/13/2019 09:36:12 PM - LoginPage - INFO: Entering: test@email.com
-05/13/2019 09:36:12 PM - LoginPage - INFO: Element not found with locator: user_password and  locatorType: id
-05/13/2019 09:36:12 PM - LoginPage - INFO: Cannot send data on the element with locator: user_password locatorType: id
-05/13/2019 09:36:12 PM - LoginPage - INFO: Entering password
-05/13/2019 09:36:12 PM - LoginPage - INFO: Element not found with locator: commit and  locatorType: name
-05/13/2019 09:36:12 PM - LoginPage - INFO: Cannot click on the element with locator: commit locatorType: name
-05/13/2019 09:36:12 PM - RegisterCoursesPage - INFO: Element not found with locator: //a[contains(text(),'All Courses')] and  locatorType: xpath
-05/13/2019 09:36:12 PM - RegisterCoursesPage - INFO: Cannot click on the element with locator: //a[contains(text(),'All Courses')] locatorType: xpath
-05/13/2019 09:36:13 PM - RegisterCoursesPage - INFO: Element not found with locator: query and  locatorType: name
-05/13/2019 09:36:13 PM - RegisterCoursesPage - INFO: Cannot send data on the element with locator: query locatorType: name
-05/13/2019 09:36:13 PM - RegisterCoursesPage - INFO: Element not found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
-05/13/2019 09:36:13 PM - RegisterCoursesPage - INFO: Cannot click on the element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
-05/13/2019 09:36:13 PM - RegisterCoursesPage - INFO: Element not found with locator: enroll-button-top and  locatorType: id
-05/13/2019 09:36:13 PM - RegisterCoursesPage - INFO: Cannot click on the element with locator: enroll-button-top locatorType: id
-05/14/2019 04:13:11 PM - LoginPage - INFO: Element not found with locator: Login and  locatorType: link
-05/14/2019 04:13:11 PM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
-05/14/2019 04:13:14 PM - LoginPage - INFO: Element not found with locator: user_email and  locatorType: id
-05/14/2019 04:13:14 PM - LoginPage - INFO: Cannot send data on the element with locator: user_email locatorType: id
-05/14/2019 04:13:14 PM - LoginPage - INFO: Entering: test@email.com
-05/14/2019 04:13:17 PM - LoginPage - INFO: Element not found with locator: user_password and  locatorType: id
-05/14/2019 04:13:17 PM - LoginPage - INFO: Cannot send data on the element with locator: user_password locatorType: id
-05/14/2019 04:13:17 PM - LoginPage - INFO: Entering password
-05/14/2019 04:13:20 PM - LoginPage - INFO: Element not found with locator: commit and  locatorType: name
-05/14/2019 04:13:20 PM - LoginPage - INFO: Cannot click on the element with locator: commit locatorType: name
-05/14/2019 04:13:23 PM - RegisterCoursesPage - INFO: Element not found with locator: //a[contains(text(),'All Courses')] and  locatorType: xpath
-05/14/2019 04:13:23 PM - RegisterCoursesPage - INFO: Cannot click on the element with locator: //a[contains(text(),'All Courses')] locatorType: xpath
-05/14/2019 04:13:25 PM - RegisterCoursesPage - INFO: Element found with locator: query and  locatorType: name
-05/14/2019 04:13:25 PM - RegisterCoursesPage - INFO: Cannot send data on the element with locator: query locatorType: name
-05/14/2019 04:13:25 PM - RegisterCoursesPage - INFO: Element not found with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] and  locatorType: xpath
-05/14/2019 04:13:25 PM - RegisterCoursesPage - INFO: Cannot click on the element with locator: //div[contains(@class,'course-listing-title') and contains(text(),'JavaScript for beginners')] locatorType: xpath
-05/14/2019 04:13:25 PM - RegisterCoursesPage - INFO: Element not found with locator: enroll-button-top and  locatorType: id
-05/14/2019 04:13:25 PM - RegisterCoursesPage - INFO: Cannot click on the element with locator: enroll-button-top locatorType: id
-05/14/2019 04:42:06 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/14/2019 04:42:51 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/14/2019 04:43:34 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/14/2019 04:43:53 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/14/2019 04:47:08 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/14/2019 04:47:33 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/14/2019 04:52:23 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/14/2019 04:55:27 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/14/2019 04:56:29 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/14/2019 04:56:58 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/14/2019 04:58:05 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/14/2019 04:59:38 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/14/2019 05:00:42 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/14/2019 05:02:08 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/14/2019 05:02:42 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/14/2019 05:06:14 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/14/2019 05:06:17 PM - loopMenuPage - INFO: Element not found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: id
-05/14/2019 05:06:17 PM - loopMenuPage - INFO: Cannot click on the element with locator: //ul/li[contains(text(),'Bli kund')] locatorType: id
-05/14/2019 05:06:20 PM - loopMenuPage - INFO: Element not found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: id
-05/14/2019 05:06:20 PM - loopMenuPage - INFO: Cannot click on the element with locator: //ul/li[contains(text(),'Utbud')] locatorType: id
-05/14/2019 05:06:23 PM - loopMenuPage - INFO: Element not found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: id
-05/14/2019 05:06:23 PM - loopMenuPage - INFO: Cannot click on the element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: id
-05/14/2019 05:06:26 PM - loopMenuPage - INFO: Element not found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: id
-05/14/2019 05:06:26 PM - loopMenuPage - INFO: Cannot click on the element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: id
-05/14/2019 05:07:12 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/14/2019 05:07:13 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/14/2019 05:07:13 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/14/2019 05:07:13 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/14/2019 05:07:13 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/14/2019 05:07:13 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/14/2019 05:07:14 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/14/2019 05:07:14 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/14/2019 05:07:14 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/14/2019 05:07:43 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/14/2019 05:07:44 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/14/2019 05:07:44 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/14/2019 05:07:44 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/14/2019 05:07:44 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/14/2019 05:07:44 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/14/2019 05:07:44 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/14/2019 05:07:45 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/14/2019 05:07:45 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/14/2019 05:07:45 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/14/2019 05:08:20 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/14/2019 05:08:20 PM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/14/2019 05:08:20 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/14/2019 05:08:20 PM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/14/2019 05:08:20 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/14/2019 05:08:21 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/14/2019 05:08:21 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/14/2019 05:08:21 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/14/2019 05:08:21 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/14/2019 05:08:21 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/14/2019 05:08:21 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/14/2019 05:08:22 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/14/2019 05:09:47 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/14/2019 05:09:47 PM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/14/2019 05:09:47 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/14/2019 05:09:47 PM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/14/2019 05:09:47 PM - loopMenuPage - INFO: Waiting for maximum :: 0.9 :: seconds for element to be clickable
-05/14/2019 05:09:59 PM - loopMenuPage - INFO: Element not appeared on the web page
-05/14/2019 05:09:59 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/14/2019 05:09:59 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/14/2019 05:09:59 PM - loopMenuPage - INFO: Waiting for maximum :: 0.9 :: seconds for element to be clickable
-05/14/2019 05:10:12 PM - loopMenuPage - INFO: Element not appeared on the web page
-05/14/2019 05:10:12 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/14/2019 05:10:12 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/14/2019 05:10:12 PM - loopMenuPage - INFO: Waiting for maximum :: 0.9 :: seconds for element to be clickable
-05/14/2019 05:10:24 PM - loopMenuPage - INFO: Element not appeared on the web page
-05/14/2019 05:10:24 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/14/2019 05:10:24 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/14/2019 05:10:24 PM - loopMenuPage - INFO: Waiting for maximum :: 0.9 :: seconds for element to be clickable
-05/14/2019 05:10:36 PM - loopMenuPage - INFO: Element not appeared on the web page
-05/14/2019 05:10:36 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/14/2019 05:10:36 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/15/2019 09:21:52 AM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/15/2019 09:21:52 AM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/15/2019 09:21:52 AM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/15/2019 09:21:52 AM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/15/2019 09:21:52 AM - loopMenuPage - INFO: Waiting for maximum :: 0.9 :: seconds for element to be clickable
-05/15/2019 09:22:04 AM - loopMenuPage - INFO: Element not appeared on the web page
-05/15/2019 09:22:04 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/15/2019 09:22:04 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/15/2019 09:22:04 AM - loopMenuPage - INFO: Waiting for maximum :: 0.9 :: seconds for element to be clickable
-05/15/2019 09:22:17 AM - loopMenuPage - INFO: Element not appeared on the web page
-05/15/2019 09:22:17 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/15/2019 09:22:17 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/15/2019 09:22:17 AM - loopMenuPage - INFO: Waiting for maximum :: 0.9 :: seconds for element to be clickable
-05/15/2019 09:22:29 AM - loopMenuPage - INFO: Element not appeared on the web page
-05/15/2019 09:22:29 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/15/2019 09:22:29 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/15/2019 09:22:29 AM - loopMenuPage - INFO: Waiting for maximum :: 0.9 :: seconds for element to be clickable
-05/15/2019 09:22:41 AM - loopMenuPage - INFO: Element not appeared on the web page
-05/15/2019 09:22:41 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/15/2019 09:22:41 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/15/2019 09:25:16 AM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/15/2019 09:25:16 AM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/15/2019 09:25:16 AM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/15/2019 09:25:16 AM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/15/2019 09:25:16 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/15/2019 09:25:16 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/15/2019 09:25:16 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/15/2019 09:25:17 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/15/2019 09:25:17 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/15/2019 09:25:17 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/15/2019 09:25:18 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/15/2019 09:25:18 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/15/2019 09:26:10 AM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/15/2019 09:26:10 AM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/15/2019 09:26:10 AM - loopMenuPage - INFO: <class 'list'>
-05/15/2019 09:26:10 AM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/15/2019 09:26:11 AM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/15/2019 09:26:11 AM - loopMenuPage - INFO: <class 'list'>
-05/15/2019 09:26:11 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/15/2019 09:26:11 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/15/2019 09:26:11 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/15/2019 09:26:11 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/15/2019 09:26:11 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/15/2019 09:26:12 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/15/2019 09:26:12 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/15/2019 09:26:12 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/15/2019 09:39:23 AM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/15/2019 09:39:23 AM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/15/2019 09:39:23 AM - loopMenuPage - INFO: <class 'list'>
-05/15/2019 09:39:23 AM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/15/2019 09:39:23 AM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/15/2019 09:39:23 AM - loopMenuPage - INFO: <class 'list'>
-05/15/2019 09:39:24 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/15/2019 09:39:24 AM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/15/2019 09:39:24 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/15/2019 09:39:24 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/15/2019 09:39:24 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/15/2019 09:39:24 AM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/15/2019 09:39:24 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/15/2019 09:39:24 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/15/2019 09:39:24 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/15/2019 09:39:25 AM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/15/2019 09:39:25 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/15/2019 09:39:25 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/15/2019 09:39:25 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/15/2019 09:39:25 AM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/15/2019 09:39:25 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/15/2019 09:39:25 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/15/2019 09:40:17 AM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/15/2019 09:40:17 AM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/15/2019 09:40:17 AM - loopMenuPage - INFO: <class 'list'>
-05/15/2019 09:40:17 AM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/15/2019 09:40:17 AM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/15/2019 09:40:17 AM - loopMenuPage - INFO: <class 'list'>
-05/15/2019 09:40:17 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/15/2019 09:40:17 AM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/15/2019 09:40:17 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/15/2019 09:40:18 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/15/2019 09:40:18 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/15/2019 09:40:18 AM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/15/2019 09:40:18 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/15/2019 09:40:18 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/15/2019 09:40:18 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/15/2019 09:40:18 AM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/15/2019 09:40:18 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/15/2019 09:40:19 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/15/2019 09:40:19 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/15/2019 09:40:19 AM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/15/2019 09:40:19 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/15/2019 09:40:19 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/15/2019 09:40:53 AM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/15/2019 09:40:53 AM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/15/2019 09:40:53 AM - loopMenuPage - INFO: <class 'list'>
-05/15/2019 09:40:53 AM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/15/2019 09:40:53 AM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/15/2019 09:40:53 AM - loopMenuPage - INFO: <class 'list'>
-05/15/2019 09:40:53 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/15/2019 09:40:53 AM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/15/2019 09:40:53 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/15/2019 09:40:53 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/15/2019 09:40:53 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/15/2019 09:40:53 AM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/15/2019 09:40:53 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/15/2019 09:40:54 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/15/2019 09:40:54 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/15/2019 09:40:54 AM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/15/2019 09:40:54 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/15/2019 09:40:54 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/15/2019 09:40:54 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/15/2019 09:40:54 AM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/15/2019 09:40:54 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/15/2019 09:40:55 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/15/2019 09:41:53 AM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/15/2019 09:41:53 AM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/15/2019 09:41:53 AM - loopMenuPage - INFO: <class 'list'>
-05/15/2019 09:41:53 AM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/15/2019 09:41:54 AM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/15/2019 09:41:54 AM - loopMenuPage - INFO: <class 'list'>
-05/15/2019 09:41:54 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/15/2019 09:41:54 AM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/15/2019 09:41:54 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/15/2019 09:41:54 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/15/2019 09:41:54 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/15/2019 09:41:54 AM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/15/2019 09:41:54 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/15/2019 09:41:54 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/15/2019 09:41:55 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/15/2019 09:41:55 AM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/15/2019 09:41:55 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/15/2019 09:41:55 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/15/2019 09:41:55 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/15/2019 09:41:55 AM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/15/2019 09:41:55 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/15/2019 09:41:55 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/15/2019 09:41:55 AM - loopMenuPage - INFO: Tv-guide
-05/15/2019 09:44:02 AM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/15/2019 09:44:02 AM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/15/2019 09:44:02 AM - loopMenuPage - INFO: <class 'list'>
-05/15/2019 09:44:02 AM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/15/2019 09:44:03 AM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/15/2019 09:44:03 AM - loopMenuPage - INFO: <class 'list'>
-05/15/2019 09:44:03 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/15/2019 09:44:03 AM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/15/2019 09:44:03 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/15/2019 09:44:03 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/15/2019 09:44:03 AM - loopMenuPage - INFO: Se vad vi kan erbjuda dig och bli kund hos oss på Viasat idag!
-05/15/2019 09:44:03 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/15/2019 09:44:03 AM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/15/2019 09:44:03 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/15/2019 09:44:03 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/15/2019 09:44:03 AM - loopMenuPage - INFO: Tv-kanaler & tv-paket – Hitta det tv-utbud som passar dig
-05/15/2019 09:44:03 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/15/2019 09:44:04 AM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/15/2019 09:44:04 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/15/2019 09:44:04 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/15/2019 09:44:04 AM - loopMenuPage - INFO: Kundservice
-05/15/2019 09:44:04 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/15/2019 09:44:04 AM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/15/2019 09:44:04 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/15/2019 09:44:04 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/15/2019 09:44:04 AM - loopMenuPage - INFO: Tv-guide
-05/15/2019 03:05:36 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/15/2019 03:05:36 PM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/15/2019 03:05:36 PM - loopMenuPage - INFO: <class 'list'>
-05/15/2019 03:05:36 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/15/2019 03:05:36 PM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/15/2019 03:05:36 PM - loopMenuPage - INFO: <class 'list'>
-05/15/2019 03:05:37 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/15/2019 03:05:37 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/15/2019 03:05:37 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/15/2019 03:05:37 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/15/2019 03:05:37 PM - loopMenuPage - INFO: Se vad vi kan erbjuda dig och bli kund hos oss på Viasat idag!
-05/15/2019 03:05:37 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/15/2019 03:05:37 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/15/2019 03:05:37 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/15/2019 03:05:37 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/15/2019 03:05:38 PM - loopMenuPage - INFO: Tv-kanaler & tv-paket – Hitta det tv-utbud som passar dig
-05/15/2019 03:05:38 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/15/2019 03:05:38 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/15/2019 03:05:38 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/15/2019 03:05:38 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/15/2019 03:05:38 PM - loopMenuPage - INFO: Kundservice
-05/15/2019 03:05:38 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/15/2019 03:05:38 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/15/2019 03:05:38 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/15/2019 03:05:38 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/15/2019 03:05:39 PM - loopMenuPage - INFO: Tv-guide
-05/15/2019 03:06:00 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/15/2019 03:06:00 PM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/15/2019 03:06:00 PM - loopMenuPage - INFO: <class 'list'>
-05/15/2019 03:06:00 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/15/2019 03:06:01 PM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/15/2019 03:06:01 PM - loopMenuPage - INFO: <class 'list'>
-05/15/2019 03:06:01 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/15/2019 03:06:01 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/15/2019 03:06:01 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/15/2019 03:06:01 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/15/2019 03:06:01 PM - loopMenuPage - INFO: Se vad vi kan erbjuda dig och bli kund hos oss på Viasat idag!
-05/15/2019 03:06:01 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/15/2019 03:06:01 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/15/2019 03:06:01 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/15/2019 03:06:01 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/15/2019 03:06:01 PM - loopMenuPage - INFO: Tv-kanaler & tv-paket – Hitta det tv-utbud som passar dig
-05/15/2019 03:06:02 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/15/2019 03:06:02 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/15/2019 03:06:02 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/15/2019 03:06:02 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/15/2019 03:06:02 PM - loopMenuPage - INFO: Kundservice
-05/15/2019 03:06:02 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/15/2019 03:06:02 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/15/2019 03:06:02 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/15/2019 03:06:02 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/15/2019 03:06:02 PM - loopMenuPage - INFO: Tv-guide
-05/15/2019 03:08:10 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/15/2019 03:08:10 PM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/15/2019 03:08:10 PM - loopMenuPage - INFO: <class 'list'>
-05/15/2019 03:08:10 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/15/2019 03:08:11 PM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/15/2019 03:08:11 PM - loopMenuPage - INFO: <class 'list'>
-05/15/2019 03:08:11 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/15/2019 03:08:11 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/15/2019 03:08:11 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/15/2019 03:08:11 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/15/2019 03:08:11 PM - loopMenuPage - INFO: Se vad vi kan erbjuda dig och bli kund hos oss på Viasat idag!
-05/15/2019 03:08:11 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/15/2019 03:08:11 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/15/2019 03:08:11 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/15/2019 03:08:11 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/15/2019 03:08:12 PM - loopMenuPage - INFO: Tv-kanaler & tv-paket – Hitta det tv-utbud som passar dig
-05/15/2019 03:08:12 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/15/2019 03:08:12 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/15/2019 03:08:12 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/15/2019 03:08:12 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/15/2019 03:08:12 PM - loopMenuPage - INFO: Kundservice
-05/15/2019 03:08:12 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/15/2019 03:08:12 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/15/2019 03:08:12 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/15/2019 03:08:12 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/15/2019 03:08:12 PM - loopMenuPage - INFO: Tv-guide
-05/15/2019 03:38:13 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/15/2019 03:38:13 PM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/15/2019 03:38:13 PM - loopMenuPage - INFO: <class 'list'>
-05/15/2019 03:38:13 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/15/2019 03:38:14 PM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/15/2019 03:38:14 PM - loopMenuPage - INFO: <class 'list'>
-05/15/2019 03:38:14 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/15/2019 03:38:14 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/15/2019 03:38:14 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/15/2019 03:38:14 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/15/2019 03:38:14 PM - loopMenuPage - INFO: Se vad vi kan erbjuda dig och bli kund hos oss på Viasat idag!
-05/15/2019 03:38:14 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/15/2019 03:38:14 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/15/2019 03:38:14 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/15/2019 03:38:14 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/15/2019 03:38:15 PM - loopMenuPage - INFO: Tv-kanaler & tv-paket – Hitta det tv-utbud som passar dig
-05/15/2019 03:38:15 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/15/2019 03:38:15 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/15/2019 03:38:15 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/15/2019 03:38:15 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/15/2019 03:38:15 PM - loopMenuPage - INFO: Kundservice
-05/15/2019 03:38:15 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/15/2019 03:38:15 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/15/2019 03:38:15 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/15/2019 03:38:15 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/15/2019 03:38:16 PM - loopMenuPage - INFO: Tv-guide
-05/16/2019 01:02:58 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/16/2019 01:02:58 PM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/16/2019 01:02:58 PM - loopMenuPage - INFO: <class 'list'>
-05/16/2019 01:02:58 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/16/2019 01:02:59 PM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/16/2019 01:02:59 PM - loopMenuPage - INFO: <class 'list'>
-05/16/2019 01:02:59 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/16/2019 01:02:59 PM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/16/2019 01:02:59 PM - loopMenuPage - INFO: <class 'list'>
-05/16/2019 01:02:59 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/16/2019 01:02:59 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/16/2019 01:02:59 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/16/2019 01:02:59 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/16/2019 01:02:59 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/16/2019 01:02:59 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/16/2019 01:02:59 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/16/2019 01:02:59 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/16/2019 01:03:00 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/16/2019 01:03:00 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/16/2019 01:03:00 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/16/2019 01:03:00 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/16/2019 01:03:00 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/16/2019 01:03:00 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/16/2019 01:03:00 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/16/2019 01:03:00 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/16/2019 01:04:13 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/16/2019 01:04:13 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/16/2019 01:04:14 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/16/2019 01:04:14 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/16/2019 01:04:14 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/16/2019 01:04:14 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/16/2019 01:04:14 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/16/2019 01:04:14 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/16/2019 01:04:14 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/16/2019 01:04:14 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/16/2019 01:04:14 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/16/2019 01:04:14 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/16/2019 01:04:15 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/16/2019 01:04:15 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/16/2019 01:04:15 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/16/2019 01:04:15 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/16/2019 01:04:15 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/16/2019 01:04:15 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/16/2019 01:04:15 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/16/2019 01:33:42 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/16/2019 01:33:42 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/16/2019 01:33:42 PM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/16/2019 01:33:42 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/16/2019 01:33:42 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/16/2019 01:33:42 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/16/2019 01:33:42 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/16/2019 01:33:43 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/16/2019 01:33:43 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/16/2019 01:33:43 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/16/2019 01:33:43 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/16/2019 01:33:43 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/16/2019 01:33:43 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/16/2019 01:33:43 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/16/2019 01:33:43 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/16/2019 01:33:43 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/16/2019 01:33:43 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/16/2019 01:33:43 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/16/2019 01:33:43 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/16/2019 01:33:43 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/16/2019 01:49:17 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/16/2019 01:49:18 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/16/2019 01:49:18 PM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/16/2019 01:49:18 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/16/2019 01:49:19 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/16/2019 01:49:19 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/16/2019 01:49:19 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/16/2019 01:49:19 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/16/2019 01:49:19 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/16/2019 01:49:19 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/16/2019 01:49:19 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/16/2019 01:49:19 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/16/2019 01:49:19 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/16/2019 01:49:20 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/16/2019 01:49:20 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/16/2019 01:49:20 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/16/2019 01:49:20 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/16/2019 01:49:20 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/16/2019 01:49:20 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/16/2019 01:49:20 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/16/2019 01:53:53 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/16/2019 01:53:54 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/16/2019 01:53:54 PM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/16/2019 01:53:54 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/16/2019 01:53:54 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/16/2019 01:53:54 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/16/2019 01:53:54 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/16/2019 01:53:54 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/16/2019 01:53:54 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/16/2019 01:53:54 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/16/2019 01:53:54 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/16/2019 01:53:55 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/16/2019 01:53:55 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/16/2019 01:53:55 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/16/2019 01:53:55 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/16/2019 01:53:55 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/16/2019 01:53:55 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/16/2019 01:53:55 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/16/2019 01:53:55 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/16/2019 01:53:55 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/16/2019 01:53:55 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/16/2019 01:53:58 PM - loopMenuPage - INFO: Element not found with locator: //app-breadcrumb//span[contains(text(),'Bli kund')] and  locatorType: xpath
-05/16/2019 01:53:58 PM - loopMenuPage - INFO: Element not present with locator: //app-breadcrumb//span[contains(text(),'Bli kund')] locatorType: xpath
-05/16/2019 01:55:22 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/16/2019 01:55:23 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/16/2019 01:55:23 PM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/16/2019 01:55:23 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/16/2019 01:55:23 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/16/2019 01:55:23 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/16/2019 01:55:23 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/16/2019 01:55:23 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/16/2019 01:55:23 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/16/2019 01:55:23 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/16/2019 01:55:23 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/16/2019 01:55:24 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/16/2019 01:55:24 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/16/2019 01:55:24 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/16/2019 01:55:24 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/16/2019 01:55:24 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/16/2019 01:55:24 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/16/2019 01:55:24 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/16/2019 01:55:24 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/16/2019 01:55:24 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/16/2019 01:55:24 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/16/2019 01:55:28 PM - loopMenuPage - INFO: Element not found with locator: //app-breadcrumb//span[contains(text(),'Bli kund')] and  locatorType: xpath
-05/16/2019 01:55:28 PM - loopMenuPage - INFO: Element not present with locator: //app-breadcrumb//span[contains(text(),'Bli kund')] locatorType: xpath
-05/16/2019 02:05:15 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/16/2019 02:05:16 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/16/2019 02:05:16 PM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/16/2019 02:05:16 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/16/2019 02:05:16 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/16/2019 02:05:16 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/16/2019 02:05:16 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/16/2019 02:05:16 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/16/2019 02:05:16 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/16/2019 02:05:16 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/16/2019 02:05:16 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/16/2019 02:05:17 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/16/2019 02:05:17 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/16/2019 02:05:17 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/16/2019 02:05:17 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/16/2019 02:05:17 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/16/2019 02:05:17 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/16/2019 02:05:17 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/16/2019 02:05:17 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/16/2019 02:05:17 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/16/2019 02:05:17 PM - loopMenuPage - INFO: Element found with locator: //app-breadcrumb//span[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/16/2019 02:05:17 PM - loopMenuPage - INFO: Element with locator: //app-breadcrumb//span[contains(text(),'Tv-guide')] locatorType: xpath
-05/16/2019 02:14:01 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/16/2019 02:14:01 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/16/2019 02:14:02 PM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/16/2019 02:14:02 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/16/2019 02:14:02 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/16/2019 02:14:02 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/16/2019 02:14:02 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/16/2019 02:14:02 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/16/2019 02:14:02 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/16/2019 02:14:02 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/16/2019 02:14:02 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/16/2019 02:14:02 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/16/2019 02:14:02 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/16/2019 02:14:02 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/16/2019 02:14:03 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/16/2019 02:14:03 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/16/2019 02:14:03 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/16/2019 02:14:03 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/16/2019 02:14:03 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/16/2019 02:14:03 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/16/2019 02:14:03 PM - loopMenuPage - INFO: Element found with locator: //app-breadcrumb//span[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/16/2019 02:14:03 PM - loopMenuPage - INFO: Element with locator: //app-breadcrumb//span[contains(text(),'Tv-guide')] locatorType: xpath
-05/16/2019 02:14:03 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: breadcrumb is visible
-05/16/2019 02:14:03 PM - Status - INFO: test_menu ### TEST SUCCESSFUL
-05/17/2019 12:54:40 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/17/2019 12:54:40 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/17/2019 12:54:41 PM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/17/2019 12:54:41 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/17/2019 12:54:41 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/17/2019 12:54:41 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/17/2019 12:54:41 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/17/2019 12:54:41 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/17/2019 12:54:41 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/17/2019 12:54:41 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/17/2019 12:54:41 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/17/2019 12:54:42 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/17/2019 12:54:42 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/17/2019 12:54:42 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/17/2019 12:54:42 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/17/2019 12:54:42 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/17/2019 12:54:43 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/17/2019 12:54:43 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/17/2019 12:54:43 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/17/2019 12:54:43 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/17/2019 12:54:43 PM - loopMenuPage - INFO: Element found with locator: //app-breadcrumb//span[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/17/2019 12:54:43 PM - loopMenuPage - INFO: Element with locator: //app-breadcrumb//span[contains(text(),'Tv-guide')] locatorType: xpath
-05/17/2019 12:54:43 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: breadcrumb is visible
-05/17/2019 12:54:43 PM - Status - INFO: test_menu ### TEST SUCCESSFUL
-05/17/2019 12:54:55 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/17/2019 12:54:55 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/17/2019 12:54:55 PM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/17/2019 12:54:55 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/17/2019 12:54:55 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/17/2019 12:54:55 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/17/2019 12:54:55 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/17/2019 12:54:55 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/17/2019 12:54:55 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/17/2019 12:54:55 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/17/2019 12:54:55 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/17/2019 12:54:56 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/17/2019 12:54:56 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/17/2019 12:54:56 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/17/2019 12:54:56 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/17/2019 12:54:56 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/17/2019 12:54:56 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/17/2019 12:54:56 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/17/2019 12:54:56 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/17/2019 12:54:56 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/17/2019 12:54:56 PM - loopMenuPage - INFO: Element found with locator: //app-breadcrumb//span[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/17/2019 12:54:56 PM - loopMenuPage - INFO: Element with locator: //app-breadcrumb//span[contains(text(),'Tv-guide')] locatorType: xpath
-05/17/2019 12:54:56 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: breadcrumb is visible
-05/17/2019 12:54:56 PM - Status - INFO: test_menu ### TEST SUCCESSFUL
-05/20/2019 10:40:24 AM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/20/2019 10:40:25 AM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/20/2019 10:40:25 AM - loopMenuPage - INFO: ['Bli kund', 'Utbud', 'Kundservice', 'Tv-guide']
-05/20/2019 10:40:25 AM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
-05/20/2019 10:40:25 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/20/2019 10:40:25 AM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/20/2019 10:40:25 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Bli kund')] and  locatorType: xpath
-05/20/2019 10:40:25 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Bli kund')] locatorType: xpath
-05/20/2019 10:40:25 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/20/2019 10:40:26 AM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/20/2019 10:40:26 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
-05/20/2019 10:40:26 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
-05/20/2019 10:40:26 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/20/2019 10:40:26 AM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/20/2019 10:40:26 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
-05/20/2019 10:40:26 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
-05/20/2019 10:40:27 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/20/2019 10:40:27 AM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/20/2019 10:40:27 AM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/20/2019 10:40:27 AM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
-05/20/2019 10:40:27 AM - loopMenuPage - INFO: Element found with locator: //app-breadcrumb//span[contains(text(),'Tv-guide')] and  locatorType: xpath
-05/20/2019 10:40:27 AM - loopMenuPage - INFO: Element with locator: //app-breadcrumb//span[contains(text(),'Tv-guide')] locatorType: xpath
-05/20/2019 10:40:27 AM - Status - INFO: ### VERIFICATION SUCCESSFUL :: breadcrumb is visible
-05/20/2019 10:40:27 AM - Status - INFO: test_menu ### TEST SUCCESSFUL
+05/22/2019 08:19:44 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
+05/22/2019 08:19:45 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
+05/22/2019 08:19:45 PM - loopMenuPage - INFO: ['Utbud', 'Kundservice', 'Tv-guide']
+05/22/2019 08:19:45 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
+05/22/2019 08:19:45 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
+05/22/2019 08:19:45 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
+05/22/2019 08:19:45 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
+05/22/2019 08:19:45 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
+05/22/2019 08:19:45 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
+05/22/2019 08:19:45 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
+05/22/2019 08:19:45 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
+05/22/2019 08:19:45 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
+05/22/2019 08:19:45 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
+05/22/2019 08:19:46 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
+05/22/2019 08:19:46 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
+05/22/2019 08:19:46 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
+05/22/2019 08:19:46 PM - loopMenuPage - INFO: Element found with locator: //app-breadcrumb//span[contains(text(),'Tv-guide')] and  locatorType: xpath
+05/22/2019 08:19:46 PM - loopMenuPage - INFO: Element with locator: //app-breadcrumb//span[contains(text(),'Tv-guide')] locatorType: xpath
+05/22/2019 08:19:46 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: breadcrumb is visible
+05/22/2019 08:19:46 PM - Status - INFO: test_menu ### TEST SUCCESSFUL
+05/22/2019 08:26:42 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
+05/22/2019 08:26:42 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
+05/22/2019 08:26:42 PM - loopMenuPage - INFO: ['Utbud', 'Kundservice', 'Tv-guide']
+05/22/2019 08:26:42 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
+05/22/2019 08:26:42 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
+05/22/2019 08:26:42 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
+05/22/2019 08:26:43 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
+05/22/2019 08:26:43 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
+05/22/2019 08:26:43 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
+05/22/2019 08:26:43 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
+05/22/2019 08:26:43 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
+05/22/2019 08:26:43 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
+05/22/2019 08:26:43 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
+05/22/2019 08:26:43 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
+05/22/2019 08:26:43 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
+05/22/2019 08:26:43 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
+05/22/2019 08:26:43 PM - loopMenuPage - INFO: Element found with locator: //app-breadcrumb//span[contains(text(),'Tv-guide')] and  locatorType: xpath
+05/22/2019 08:26:43 PM - loopMenuPage - INFO: Element with locator: //app-breadcrumb//span[contains(text(),'Tv-guide')] locatorType: xpath
+05/22/2019 08:26:43 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: breadcrumb is visible
+05/22/2019 08:26:43 PM - Status - INFO: test_menu ### TEST SUCCESSFUL
+05/22/2019 08:27:53 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
+05/22/2019 08:27:53 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
+05/22/2019 08:27:53 PM - loopMenuPage - INFO: ['Utbud', 'Kundservice', 'Tv-guide']
+05/22/2019 08:27:53 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
+05/22/2019 08:27:53 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
+05/22/2019 08:27:53 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
+05/22/2019 08:27:53 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
+05/22/2019 08:27:54 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
+05/22/2019 08:27:54 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
+05/22/2019 08:27:54 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
+05/22/2019 08:27:54 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
+05/22/2019 08:27:54 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
+05/22/2019 08:27:54 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
+05/22/2019 08:27:54 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
+05/22/2019 08:27:54 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
+05/22/2019 08:27:54 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
+05/22/2019 08:27:54 PM - loopMenuPage - INFO: Element found with locator: //app-breadcrumb//span[contains(text(),'Tv-guide')] and  locatorType: xpath
+05/22/2019 08:27:54 PM - loopMenuPage - INFO: Element with locator: //app-breadcrumb//span[contains(text(),'Tv-guide')] locatorType: xpath
+05/22/2019 08:27:54 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: breadcrumb is visible
+05/22/2019 08:27:54 PM - Status - INFO: test_menu ### TEST SUCCESSFUL
+05/22/2019 08:29:05 PM - loopMenuPage2 - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
+05/22/2019 08:29:05 PM - loopMenuPage2 - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
+05/22/2019 08:29:05 PM - loopMenuPage2 - INFO: ['Utbud', 'Kundservice', 'Tv-guide']
+05/22/2019 08:29:05 PM - loopMenuPage2 - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
+05/22/2019 08:29:05 PM - loopMenuPage2 - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
+05/22/2019 08:29:05 PM - loopMenuPage2 - INFO: Element is displayed with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
+05/22/2019 08:29:05 PM - loopMenuPage2 - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
+05/22/2019 08:29:05 PM - loopMenuPage2 - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
+05/22/2019 08:29:06 PM - loopMenuPage2 - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
+05/22/2019 08:29:06 PM - loopMenuPage2 - INFO: Element is displayed with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
+05/22/2019 08:29:06 PM - loopMenuPage2 - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
+05/22/2019 08:29:06 PM - loopMenuPage2 - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
+05/22/2019 08:29:06 PM - loopMenuPage2 - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
+05/22/2019 08:29:06 PM - loopMenuPage2 - INFO: Element is displayed with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
+05/22/2019 08:29:06 PM - loopMenuPage2 - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
+05/22/2019 08:29:06 PM - loopMenuPage2 - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
+05/22/2019 08:29:06 PM - loopMenuPage2 - INFO: Element found with locator: //app-breadcrumb//span[contains(text(),'Tv-guide')] and  locatorType: xpath
+05/22/2019 08:29:06 PM - loopMenuPage2 - INFO: Element with locator: //app-breadcrumb//span[contains(text(),'Tv-guide')] locatorType: xpath
+05/22/2019 08:29:06 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: breadcrumb is visible
+05/22/2019 08:29:06 PM - Status - INFO: test_menu ### TEST SUCCESSFUL
+05/23/2019 01:22:09 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
+05/23/2019 01:22:09 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
+05/23/2019 01:22:09 PM - loopMenuPage - INFO: ['Utbud', 'Kundservice', 'Tv-guide']
+05/23/2019 01:22:09 PM - loopMenuPage - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
+05/23/2019 01:22:09 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
+05/23/2019 01:22:09 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
+05/23/2019 01:22:09 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
+05/23/2019 01:22:09 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
+05/23/2019 01:22:09 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
+05/23/2019 01:22:09 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
+05/23/2019 01:22:09 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
+05/23/2019 01:22:09 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
+05/23/2019 01:22:09 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
+05/23/2019 01:22:09 PM - loopMenuPage - INFO: Element is displayed with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
+05/23/2019 01:22:10 PM - loopMenuPage - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
+05/23/2019 01:22:10 PM - loopMenuPage - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
+05/23/2019 01:22:10 PM - loopMenuPage - INFO: Element found with locator: //app-breadcrumb//span[contains(text(),'Tv-guide')] and  locatorType: xpath
+05/23/2019 01:22:10 PM - loopMenuPage - INFO: Element with locator: //app-breadcrumb//span[contains(text(),'Tv-guide')] locatorType: xpath
+05/23/2019 01:22:10 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: breadcrumb is visible
+05/23/2019 01:22:10 PM - Status - INFO: test_menu ### TEST SUCCESSFUL
+05/23/2019 01:22:19 PM - loopMenuPage2 - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
+05/23/2019 01:22:19 PM - loopMenuPage2 - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
+05/23/2019 01:22:20 PM - loopMenuPage2 - INFO: ['Utbud', 'Kundservice', 'Tv-guide']
+05/23/2019 01:22:20 PM - loopMenuPage2 - INFO: Element found with locator: //ul[@class='main-menu ng-star-inserted']/li and  locatorType: xpath
+05/23/2019 01:22:20 PM - loopMenuPage2 - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
+05/23/2019 01:22:20 PM - loopMenuPage2 - INFO: Element is displayed with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
+05/23/2019 01:22:20 PM - loopMenuPage2 - INFO: Element found with locator: //ul/li[contains(text(),'Utbud')] and  locatorType: xpath
+05/23/2019 01:22:20 PM - loopMenuPage2 - INFO: Clicked on element with locator: //ul/li[contains(text(),'Utbud')] locatorType: xpath
+05/23/2019 01:22:20 PM - loopMenuPage2 - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
+05/23/2019 01:22:20 PM - loopMenuPage2 - INFO: Element is displayed with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
+05/23/2019 01:22:20 PM - loopMenuPage2 - INFO: Element found with locator: //ul/li[contains(text(),'Kundservice')] and  locatorType: xpath
+05/23/2019 01:22:20 PM - loopMenuPage2 - INFO: Clicked on element with locator: //ul/li[contains(text(),'Kundservice')] locatorType: xpath
+05/23/2019 01:22:20 PM - loopMenuPage2 - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
+05/23/2019 01:22:21 PM - loopMenuPage2 - INFO: Element is displayed with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
+05/23/2019 01:22:21 PM - loopMenuPage2 - INFO: Element found with locator: //ul/li[contains(text(),'Tv-guide')] and  locatorType: xpath
+05/23/2019 01:22:21 PM - loopMenuPage2 - INFO: Clicked on element with locator: //ul/li[contains(text(),'Tv-guide')] locatorType: xpath
+05/23/2019 01:22:21 PM - loopMenuPage2 - INFO: Element found with locator: //app-breadcrumb//span[contains(text(),'Tv-guide')] and  locatorType: xpath
+05/23/2019 01:22:21 PM - loopMenuPage2 - INFO: Element with locator: //app-breadcrumb//span[contains(text(),'Tv-guide')] locatorType: xpath
+05/23/2019 01:22:21 PM - Status - INFO: ### VERIFICATION SUCCESSFUL :: breadcrumb is visible
+05/23/2019 01:22:21 PM - Status - INFO: test_menu ### TEST SUCCESSFUL

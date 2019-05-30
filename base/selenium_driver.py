@@ -90,7 +90,6 @@ class SeleniumDriver():
             locatorType = locatorType.lower()
             byType = self.getByType(locatorType)
             element = self.driver.find_elements(byType, locator)
-            # element = WebDriverWait(self.driver, 10).until(EC.visibility_of_element_located((byType, locator)))
             self.log.info("Element found with locator: " + locator +
                           " and  locatorType: " + locatorType)
         except:

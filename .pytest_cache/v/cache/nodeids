@@ -1,3 +1,4 @@
 [
-  "test_scripts/test_001_loop_menus.py::LoopMenuTests::test_menu"
+  "test_scripts/test_001_loop_menus.py::LoopMenuTests::test_menu",
+  "test_scripts/test_002_loop_menus.py::LoopMenuTests::test_menu"
 ]

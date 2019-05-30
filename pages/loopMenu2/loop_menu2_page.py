@@ -3,7 +3,7 @@ import logging
 from base.basepage import BasePage
 from time import sleep
 
-class loopMenuPage(BasePage):
+class loopMenuPage2(BasePage):
 
     log = cl.customLogger(logging.DEBUG)
 
